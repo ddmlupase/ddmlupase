@@ -20,13 +20,13 @@
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
   </p>
 
+  <div>
   <h1><strong>📁 Check out my portfolio:</strong></h1>
-
   <h2>
-
   <a href="YOUR_PORTFOLIO_LINK_HERE">danieldavid.vercel.app</a>
-  
   </h2>
+  </div>
+
 
   <!-- GitHub Stats -->
   <h2>📊 GitHub Stats</h2>
