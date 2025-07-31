@@ -21,10 +21,8 @@
   </p>
 
   <div>
-  <h1><strong>📁 Check out my portfolio:</strong></h1>
-  <h2>
-  <a href="YOUR_PORTFOLIO_LINK_HERE">danieldavid.vercel.app</a>
-  </h2>
+  <h2><strong>📁 Check out my portfolio:</strong></h2>
+  <h3 href="YOUR_PORTFOLIO_LINK_HERE">danieldavid.vercel.app</h3>
   </div>
 
 
