@@ -1,5 +1,5 @@
 <h1  align='center' style='font-weight:bold;'>Daniel David Lupase</h1>
-Information Technology Major | Aspiring Database Developer
+<div align='center'> Information Technology Major | Aspiring Database Developer </div>
 
 
 # 💻 Tech Stack:
