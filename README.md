@@ -1,4 +1,4 @@
-# 💫 About Me:
+<h1  align='center' style='font-weight:bold;'>Daniel David Lupase</h1>
 Information Technology Major | Aspiring Database Developer
 
 
