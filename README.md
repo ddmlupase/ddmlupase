@@ -22,7 +22,7 @@
 
   <div>
   <h2><strong>📁 Check out my portfolio:</strong></h2>
-  <h3 href="YOUR_PORTFOLIO_LINK_HERE">danieldavid.vercel.app</h3>
+  <a href="YOUR_PORTFOLIO_LINK_HERE">danieldavid.vercel.app</a>
   </div>
 
 
