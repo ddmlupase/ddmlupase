@@ -22,9 +22,9 @@
 
   <div>
   <h2><strong>📁 Check out my portfolio:</strong></h2>
-  <a href="https://danieldavid.vercel.app" style="text-decoration: none; font-size: 1.5em; font-weight: bold; color: inherit;">
-    danieldavid.vercel.app
-  </a>
+  <h3>
+  <a href="https://danieldavid.vercel.app">danieldavid.vercel.app</a>
+  </h3>
   </div>
 
 
