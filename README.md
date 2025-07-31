@@ -22,8 +22,11 @@
 
   <div>
   <h2><strong>📁 Check out my portfolio:</strong></h2>
-  <a href="YOUR_PORTFOLIO_LINK_HERE">danieldavid.vercel.app</a>
+  <a href="https://danieldavid.vercel.app" style="text-decoration: none; font-size: 1.5em; font-weight: bold; color: inherit;">
+    danieldavid.vercel.app
+  </a>
   </div>
+
 
 
   <!-- GitHub Stats -->
